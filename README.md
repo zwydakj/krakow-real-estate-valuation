@@ -13,7 +13,7 @@ This repository contains an interactive R/Shiny application designed for real es
 1. Ensure you have **R** and **RStudio** installed.
 2. Clone this repository to your local machine.
 3. Open the project in RStudio.
-4. Install the required dependencies:
+4. Install required R packages:
    `install.packages(c("shiny", "bslib", "tidyverse", "plotly", "sf", "lubridate", "DT", "shinyjs", "shinyWidgets"))`
 5. Open `app.R` and click the **"Run App"** button in RStudio.
 
