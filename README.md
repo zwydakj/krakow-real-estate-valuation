@@ -11,7 +11,7 @@ This repository contains an interactive R/Shiny application designed for real es
 
 ## Data Sources
 * **Real Estate Listings:** The foundational dataset was sourced from [Kaggle - Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland). The raw data underwent feature engineering to enable the geospatial and PropTech features of this application.
-* **Geospatial Boundaries:** The district map of Kraków (`.geojson` format) was sourced from [andilabs/krakow-dzielnice-geojson](https://github.com/andilabs/krakow-dzielnice-geojson) and adapted for the visual mapping components of this project.
+* **Geospatial Boundaries:** The district map of Kraków was sourced from [andilabs/krakow-dzielnice-geojson](https://github.com/andilabs/krakow-dzielnice-geojson) and adapted for the visual mapping components of this project.
 
 ---
 
