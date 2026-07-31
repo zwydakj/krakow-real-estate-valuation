@@ -1,5 +1,7 @@
 # Interactive PropTech Analytics: Kraków Real Estate
 
+**Live Demo: [https://zwydakj.shinyapps.io/krakow-real-estate-valuation/](https://zwydakj.shinyapps.io/krakow-real-estate-valuation/)**
+
 ## Overview
 This repository contains an interactive R/Shiny application designed for real estate valuation and urban spatial analysis in Kraków. It combines statistical modeling with geospatial visualization to analyze property prices and evaluate urban walkability based on the "15-minute city" concept.
 
